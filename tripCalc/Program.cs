@@ -1,4 +1,12 @@
-﻿Console.WriteLine("=== Part 1: Road Trip ===");
+/*
+ * Name: Brayden Crooks
+ * Course: CSCI 1250, Section 001
+ * Assignment: Lab 02, Trip Calculator
+ * Date: September 23, 2026
+ * Description: Calculates the fuel, food, and work hours behind one road trip.
+ */
+
+Console.WriteLine("=== Part 1: Road Trip ===");
 
 Console.Write("What was the round trip in miles? ");
 int milesForTheTrip = Convert.ToInt32(Console.ReadLine());
